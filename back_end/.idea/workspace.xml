@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="259b5666-067d-4ec6-b499-75f276deaa9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="8eb19d6f-4e6e-4b27-be7a-3b2ade1f1f25" />
+  <component name="ProjectId" id="1g2qVYi5NEIVFrAPhE5jF9eZaB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="back_end" type="Python.DjangoServer" factoryName="Django server">
+      <module name="back_end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="back_end.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="259b5666-067d-4ec6-b499-75f276deaa9c" name="Default Changelist" comment="" />
+      <created>1597323059675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597323059675</updated>
+      <workItem from="1597323147431" duration="1381000" />
+      <workItem from="1597324574937" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="759" y="379" key="#Notifications" timestamp="1597323542060">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="759" y="379" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1597323542060" />
+    <state width="979" height="266" key="GridCell.Tab.0.bottom" timestamp="1597324530832">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="979" height="266" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530832" />
+    <state width="979" height="266" key="GridCell.Tab.0.center" timestamp="1597324530831">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="979" height="266" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530831" />
+    <state width="979" height="266" key="GridCell.Tab.0.left" timestamp="1597324530831">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="979" height="266" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530831" />
+    <state width="979" height="266" key="GridCell.Tab.0.right" timestamp="1597324530832">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="979" height="266" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530832" />
+    <state x="12" y="106" width="979" height="714" key="SettingsEditor" timestamp="1597324144103">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="12" y="106" width="979" height="714" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1597324144103" />
+    <state x="298" y="459" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597324424469">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="298" y="459" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1597324424469" />
+  </component>
+</project>
