@@ -19,7 +19,9 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -48,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django Server.back_end">
     <configuration name="back_end" type="Python.DjangoServer" factoryName="Django server">
       <module name="back_end" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +75,57 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="makemigrations" type="Python.DjangoServer" factoryName="Django server">
+      <module name="back_end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="back_end.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Windows\Desktop\SY\Server\superelement\back_end\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="true" />
+      <option name="customRunCommand" value="makemigrations" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migrate" type="Python.DjangoServer" factoryName="Django server">
+      <module name="back_end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="back_end.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Windows\Desktop\SY\Server\superelement\back_end\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="true" />
+      <option name="customRunCommand" value="migrate" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.migrate" />
+      <item itemvalue="Django Server.back_end" />
+      <item itemvalue="Django Server.makemigrations" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,6 +137,7 @@
       <updated>1597323059675</updated>
       <workItem from="1597323147431" duration="1381000" />
       <workItem from="1597324574937" duration="291000" />
+      <workItem from="1597325010736" duration="1173000" />
     </task>
     <servers />
   </component>
@@ -95,7 +149,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -107,22 +173,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="759" y="379" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1597323542060" />
-    <state width="979" height="266" key="GridCell.Tab.0.bottom" timestamp="1597324530832">
+    <state x="0" y="214" width="1086" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597326121730">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="979" height="266" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530832" />
-    <state width="979" height="266" key="GridCell.Tab.0.center" timestamp="1597324530831">
+    <state x="0" y="214" width="1086" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1597326121730" />
+    <state width="979" height="264" key="GridCell.Tab.0.bottom" timestamp="1597326131228">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="979" height="266" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530831" />
-    <state width="979" height="266" key="GridCell.Tab.0.left" timestamp="1597324530831">
+    <state width="979" height="264" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1597326131228" />
+    <state width="979" height="264" key="GridCell.Tab.0.center" timestamp="1597326131228">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="979" height="266" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530831" />
-    <state width="979" height="266" key="GridCell.Tab.0.right" timestamp="1597324530832">
+    <state width="979" height="264" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1597326131228" />
+    <state width="979" height="264" key="GridCell.Tab.0.left" timestamp="1597326131228">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="979" height="266" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1597324530832" />
+    <state width="979" height="264" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1597326131228" />
+    <state width="979" height="264" key="GridCell.Tab.0.right" timestamp="1597326131228">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="979" height="264" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1597326131228" />
     <state x="12" y="106" width="979" height="714" key="SettingsEditor" timestamp="1597324144103">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
